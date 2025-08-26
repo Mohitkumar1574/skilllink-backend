@@ -79,3 +79,18 @@
    POST /api/jobs/:id/apply → Apply to a job 
    GET /api/applications → Get applied jobs 
 
+📸 API Testing Screenshots 
+ 
+   1. User Registration
+     [User Registration](./screenshots/register.png)
+
+   2. User Login
+      [User Login](./screenshots/login.png)
+
+   3. Job Post (Recruiter)
+     [Job Post](./screenshots/job-post.png)
+
+   4. Job Apply (User)
+     [Job Apply](./screenshots/job-apply.png)
+
+   
